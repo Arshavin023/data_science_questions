@@ -1,6 +1,7 @@
 # data_science_questions
-## Movie dataset
+
 ## Question one
+### Movie dataset
 1. The duration column contains data on the film length. How many missing values are there
 in this column?
 2. Replace the missing values in the duration column with the median value for this column.
@@ -33,6 +34,7 @@ listed? Give the answer as an integer.
 
 
 ## Question two
+### Event dataset
 1. Download the event_data.csv dataset, which contains data on the use of the mobile
 application of users who registered from July 29 to September 1, 2019:
 • user_id - user identifier;
